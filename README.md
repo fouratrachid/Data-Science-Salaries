@@ -1,2 +1,2 @@
-# Data-Scientists-Salaries
+# Data-Science-Salaries
  
