@@ -1,3 +1,3 @@
-# Data-Science-Salay-Estimator 
+# Data-Science-Salary-Estimator 
 
  
